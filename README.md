@@ -1,9 +1,11 @@
 # \<plastic-aspect-ratio\>
 
-A Polymer 2.0 Custom Element Where the Height Depends on the Width
+A Polymer 3.0 Custom Element Where the Height Depends on the Width
 
 This allows you to set the width in any way, by percentage for example,
 and still have the container retain its width to height aspect ratio.
+
+The element is also available for Polymer 2 - see install instructions below.
 
 ## Examples
 ```HTML
@@ -31,8 +33,11 @@ You don't have to use only a single content item. Anything that could be in a di
 ```
 
 ## Install
+### For Polymer 3 Projects
+`npm i --save plastic-aspect-ratio`
 
-`bower install --save mlisook/plastic-aspect-ratio`
+### For Polymer 2 Projects
+`bower install --save mlisook/plastic-aspect-ratio#^1.0.0`
 
 ## Issues and Contributions
 
