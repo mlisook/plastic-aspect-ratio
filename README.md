@@ -1,5 +1,8 @@
 # \<plastic-aspect-ratio\>
 
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/mlisookplastic-aspect-ratio)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/mlisookplastic-aspect-ratio.svg)](https://vaadin.com/directory/component/mlisookplastic-aspect-ratio)
+
 A Polymer 3.0 Custom Element Where the Height Depends on the Width
 
 This allows you to set the width in any way, by percentage for example,
